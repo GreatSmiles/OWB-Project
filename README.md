@@ -2,9 +2,6 @@
 
 This repo contains Open World Builders project to be delivered on August 28, 2020 by group #20 Jared, JeanClaudel, Hendrik
 
-TODO per submission....
-
-
     Clone this repo into your local environment
 
     Create a subfolder in this repo named with your team ID number, i.e. OWBSummer2020Project/20     // (THIS IS US, GROUP 20)
@@ -28,6 +25,7 @@ Everyone has an identity in life, everyone is a unique individual.  A Photo turn
 The Family Tree Photo concept is a beginning, a baby step towards a larger, much larger plan of inclusion.  Friends, large groups of friends, organizations, clubs, sport clubs and so many others can get in on the action as well!
 
 Link to recorded presentation on Youtube:
+[LINK](https://youtu.be/8EMjNsZjlKo)
 
 
 Link to Google Slides presentation (Public):
